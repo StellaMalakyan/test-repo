@@ -1,11 +1,11 @@
-# My Project
-# My Project
+# GitHub tutoriaproject
+# GitHub Tutorial
 
 ## Description
-This is my first GitHub project.
+This is a GitHub Tutorial with all the necessary steps of the workflow.
 
-## How to use
-Open the project and follow the instructions.
+## Steps
+<ol> Create a repository
 
 ## Author
 Stella
