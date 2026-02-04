@@ -1,11 +1,27 @@
-# GitHub tutoriaproject
-# GitHub Tutorial
+# Git & GitHub — Քայլ առ քայլ ուղեցույց 
 
-## Description
-This is a GitHub Tutorial with all the necessary steps of the workflow.
 
-## Steps
-<ol> Create a repository
+## Նկարագրություն
+Այս ֆայլը ստեղծված է գործընթացը քայլ առ քայլ բացատրելու համար։
+
+## Քայլեր
+**1. Ստեղծել Repository GitHub-ում**
+>Repository-ն GitHub-ում գտնվող թղթապանակ է, որտեղ պահվում են մեր կոդը, ֆայլերը և բոլոր փոփոխությունները։
+
++ Մուտք գործել GitHub 
++ Սեղմել New repository
++ Անուն տալ (օր․test-repo)
++ Ընտրել Public կամ Private (մեր դեպքում՝Public)
++ Սեղմել Create repository
+>*Այս պահին նախագիծը կա միայն GitHub-ում, ոչ մեր համակարգչում*։
+
+
+
+
+
+
+
+
 
 ## Author
 Stella
