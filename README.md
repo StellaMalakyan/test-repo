@@ -34,6 +34,7 @@
 >git commit -m"save changes"
 ## **7. Փոփոխությունները ուղարկել GitHub (git push)**
 >git push
+
 ![pushing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQS9QOq0zJvPYqDv-DR7bn0PdpnWaBlJrzw&s)
 >*Առանց git push-ի GitHub-ում ոչինչ չի փոխվում*
 ## ՀԵՂԻՆԱԿ՝
