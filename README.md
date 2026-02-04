@@ -29,12 +29,12 @@
 >git add + file-ի անվանումը 
 
 >*Առանց git add-ի Git-ը չի հասկանում՝ ինչ ենք ցանկանում պահպանել։*
-
+![staging](https://phoenixnap.com/kb/wp-content/uploads/2025/06/git-add-how-to-stage-in-git.png)
 ## **6. Պահպանել փոփոխությունները(git commit -m "...")**
 >git commit -m"save changes"
 ## **7. Փոփոխությունները ուղարկել GitHub (git push)**
 >git push
-
+![pushing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQS9QOq0zJvPYqDv-DR7bn0PdpnWaBlJrzw&s)
 >*Առանց git push-ի GitHub-ում ոչինչ չի փոխվում*
 ## ՀԵՂԻՆԱԿ՝
 > Ստելլա
