@@ -16,12 +16,13 @@
 + Սեղմել Create repository
 >*Այս պահին նախագիծը կա միայն GitHub-ում, ոչ մեր համակարգչում*։
 ## **2. git clone ստեղծել (Repository-ն պատճենել համակարգչի մեջ)**
->git clone https://github.com/username/repository-name.git
-
+```bash
+git clone https://github.com/username/repository-name.git
+```
 >*Այս քայլերով համակարգչում ստեղծեցինք նույն թղթապանակի պատճենը, որը կապված է GitHub-ի հետ։*
 ## **3. Բացել նախագիծը VS Code-ում**
 ```bash
->code .
+code .
 ```
 >*Այս հրամանից հետո VS Code-ը բացվում է մեր նախագծի թղթապանակով*:
 ## **4. VS Code-ում բացել ֆայլը**
@@ -33,14 +34,17 @@
 >*Առանց git add-ի Git-ը չի հասկանում՝ ինչ ենք ցանկանում պահպանել։*
 ![staging](https://phoenixnap.com/kb/wp-content/uploads/2025/06/git-add-how-to-stage-in-git.png)
 ## **6. Պահպանել փոփոխությունները(git commit -m "...")**
->git commit -m"save changes"
+```bash
+git commit -m"save changes"
+```
 ## **7. Փոփոխությունները ուղարկել GitHub (git push)**
->git push
-
+```bush
+git push
+```
 ![pushing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQS9QOq0zJvPYqDv-DR7bn0PdpnWaBlJrzw&s)
 >*Առանց git push-ի GitHub-ում ոչինչ չի փոխվում*
 ## ՀԵՂԻՆԱԿ՝
-> Ստելլա
+> Ստելլա 
 
 
 
